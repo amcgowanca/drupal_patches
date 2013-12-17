@@ -16,7 +16,7 @@ This patch enables the ability to have inheritable (multiple) profiles allowing 
 
 This patch is derived from that of the inheritable profiles, however performs a deep dependency check for all modules, not just those listed within a profile's `.info` file.
 
-***Patch File: [1356276-D7-inheritable-profiles-multi-enforce-dependencies.patch](https://raw.github.com/amcgowanca/drupal_patches/7.x/core/inheritable-profiles/1356276-D7-inhertiable-profiles-multi-enforce-dependencies.patch)***
+***Patch File: [1356276-D7-inheritable-profiles-multi-enforce-dependencies.patch](https://raw.github.com/amcgowanca/drupal_patches/7.x/core/inheritable-profiles/1356276-D7-inheritable-profiles-multi-enforce-dependencies.patch)***
 
 #### File Field - Issue: 2066275
 
